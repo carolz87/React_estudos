@@ -4,7 +4,7 @@ Este repositório tem como objetivo testar o uso do React para a construção de
 
 ## Descrição
 
-Neste projeto, exploramos diversas funcionalidades e conceitos do React, incluindo:
+Este projeto explora diversas funcionalidades e conceitos do React, incluindo:
 
 - Componentes funcionais e de classe
 - Hooks 
