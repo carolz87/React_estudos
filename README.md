@@ -27,12 +27,9 @@ Este repositório tem como objetivo testar o uso do React para a construção de
     ```
 3. Inicie o servidor de desenvolvimento:
     ```sh
-    npm start
+    npm run dev
     ```
 
-## Contribuição
-
-Sinta-se à vontade para abrir issues e pull requests para contribuir com melhorias e correções.
 
 ## Licença
 
