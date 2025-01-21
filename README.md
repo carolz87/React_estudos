@@ -32,7 +32,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
      ```bash
-     git clone https://github.com/seu-usuario/react-estudos.git
+     git clone https://github.com/carolz87/React_estudos.git
      ```
 
 2. Navegue até o diretório do projeto:
@@ -60,7 +60,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Contato
-
-Para mais informações, entre em contato com [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
 
